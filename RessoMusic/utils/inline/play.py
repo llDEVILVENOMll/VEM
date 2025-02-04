@@ -62,10 +62,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="ϲнαт", url=f"https://t.me/+OsAgHgPQwyU4Zjg1"
+                text="ϲнαт", url=f"https://t.me/+kdqqdy9-rHxmYTk1"
             ),
             InlineKeyboardButton(
-                text="ηεω вσт", url=f"https://t.me/Khwahish_Music_bot"
+                text="ηεω вσт", url=f"https://t.me/+kdqqdy9-rHxmYTk1"
             ),
         ],
     ]
